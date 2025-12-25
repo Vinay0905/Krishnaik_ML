@@ -1,0 +1,6 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# etc. (add venv/, .env, etc.)
